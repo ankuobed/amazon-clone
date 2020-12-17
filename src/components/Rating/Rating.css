@@ -1,0 +1,16 @@
+.rating {
+    display: flex;
+    align-items: center;
+}
+
+.rating .MuiSvgIcon-root {
+  margin: 0.1rem;
+  font-size: 1.6rem;
+  color: #f0c040;
+}
+
+.rating span {
+    margin-left: 5px;
+    font-size: 1.5rem;
+    color: #404040;
+}
